@@ -1,4 +1,4 @@
-# SN_assignment
+# Data Analyst Agent 
 
 # Demo 
 ## UI 
